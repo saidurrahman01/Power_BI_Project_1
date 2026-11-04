@@ -39,7 +39,7 @@ The dashboard consists of two interactive pages, each designed to provide a diff
 
 ### Page 1: High-Level Market Overview
 
-![Data Jobs Dashboard Page 1](Images\page_1.png)
+![Data Jobs Dashboard Page 1](Images/page_1.png)
 
 The first page provides a comprehensive overview of the data job market through key metrics and visualizations.
 
@@ -47,7 +47,7 @@ It highlights total job postings, median salaries, popular job titles, and other
 
 ### Page 2: Job Title Drill-Through Analysis
 
-![Data Jobs Dashboard Page 2](Images\page_2.png)
+![Data Jobs Dashboard Page 2](Images/page_2.png)
 
 The second page provides a more detailed analysis of individual job titles.
 
