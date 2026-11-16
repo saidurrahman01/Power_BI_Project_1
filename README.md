@@ -16,8 +16,8 @@ The first version features a two-page interactive dashboard with detailed job ti
 
 You can find the complete Power BI project files here:
 
-- [**Data_Jobs_Dashboard.pbix (Version 1.0)**](data_jobs_dashboard.pbix)
-- [**Data_Jobs_Dashboard_2.0.pbix (Version 2.0)**](Dashboard_2.0.pbix)
+- [**Data_Jobs_Dashboard.pbix (Version 1.0)**](Project_File/data_jobs_dashboard.pbix)
+- [**Data_Jobs_Dashboard_2.0.pbix (Version 2.0)**](Project_File/Dashboard_2.0.pbix)
 
 
 ## Skills & Tools Demonstrated
